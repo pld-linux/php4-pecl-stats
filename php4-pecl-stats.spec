@@ -27,7 +27,7 @@ harmonic_mean() and others.
 In PECL status of this extension is: %{_status}.
 
 %description -l pl
-To rozszerzenie dostarcza wielu ró¿nych funkcji do wykonywania
+To rozszerzenie dostarcza wiele ró¿nych funkcji do wykonywania
 obliczeñ statystycznych, takich jak stats_absolute_deviation(),
 stats_covariance(), harmonic_mean() i inne.
 
