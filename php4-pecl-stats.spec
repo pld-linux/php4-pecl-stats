@@ -6,12 +6,12 @@
 Summary:	%{_modname} - extension with routines for statistical computation
 Summary(pl):	%{_modname} - rozszerzenie z funkcjami do wykonywania obliczeñ statystycznych
 Name:		php4-pecl-%{_modname}
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
-# Source0-md5:	99991c2644a257313d1f1dacc612fc37
+# Source0-md5:	96f105be1e76fbc5dca424057066e4d8
 URL:		http://pecl.php.net/package/stats/
 BuildRequires:	php4-devel >= 3:4.3.0
 BuildRequires:	rpmbuild(macros) >= 1.254
