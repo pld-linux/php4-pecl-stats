@@ -4,7 +4,7 @@
 %define		extensionsdir	%(php-config --extension-dir 2>/dev/null)
 
 Summary:	%{_modname} - extension with routines for statistical computation
-Summary(pl.UTF-8):   %{_modname} - rozszerzenie z funkcjami do wykonywania obliczeń statystycznych
+Summary(pl.UTF-8):	%{_modname} - rozszerzenie z funkcjami do wykonywania obliczeń statystycznych
 Name:		php4-pecl-%{_modname}
 Version:	1.0.2
 Release:	1
